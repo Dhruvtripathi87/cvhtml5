@@ -1,2 +1,2 @@
 # cvhtml5
-A CV Was created based on Html5 only
+A CV Was created based on HTML5 ONLYY
